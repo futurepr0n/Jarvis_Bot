@@ -3,7 +3,7 @@ import discord
 import io
 
 
-TOKEN=
+TOKEN=''
 
 class MyClient(discord.Client):
     async def on_ready(self):
