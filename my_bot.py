@@ -2,7 +2,7 @@
 import discord
 import io
 
-Njg0ODcyMjY2MDYzOTM3NTQw.XmBjGg.8PeMNGwsBRnH8yt14gLlAiuQfX0'
+Njg0ODcyMjY2MDYzOTM3NTQw.XpcZRQ.nDMnQmZ28Z_Js8wMptk63fg1Has
 TOKEN=''
 
 class MyClient(discord.Client):
