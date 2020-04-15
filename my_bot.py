@@ -2,7 +2,17 @@
 import discord
 import io
 
-Njg0ODcyMjY2MDYzOTM3NTQw.XpcZRQ.nDMnQmZ28Z_Js8wMptk63fg1Has
+Njg0OD
+This
+cyMjY2MDYzOTM3NTQw
+Is
+.XpcagA.O
+Not
+dJyoobEZCU5_MZspiU
+A
+jbnBuyQc
+Token
+
 TOKEN=''
 
 class MyClient(discord.Client):
